@@ -1,4 +1,8 @@
 1. My name is sun byoung jin
 2. I am 29 years old
 3. Thank you.
+<<<<<<< HEAD
 5. And have a nice day
+=======
+4. Good-bye
+>>>>>>> 2e6f893648a0b0e7de51462be36683f4cd4c6a94
